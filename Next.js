@@ -1,0 +1,12 @@
+/PumpScope
+  package.json
+  next.config.js
+  postcss.config.js
+  tailwind.config.js
+  /styles
+    globals.css
+  /pages
+    _app.js
+    index.js
+  /components
+    FortnitePulse.jsx
